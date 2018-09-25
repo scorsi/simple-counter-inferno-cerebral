@@ -10,17 +10,14 @@
     "express": "^4.16.3",
     "inferno": "^5.6.1",
     "inferno-create-element": "^5.6.1",
-    "inferno-server": "^5.6.1"
+    "inferno-server": "^5.6.1",
+    "typescript": "^3.0.3"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-plugin-cerebral": "^1.0.0-1524255330355",
     "babel-preset-es2015": "^6.24.1",
     "fuse-box": "^3.5.0",
-    "ts-transform-classcat": "^0.1.1",
-    "ts-transform-inferno": "^3.0.1",
-    "typescript": "^3.0.3",
-    "uglify-es": "^3.3.9",
     "uglify-js": "^3.4.9"
   }
 }

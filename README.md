@@ -1,5 +1,4 @@
-# inferno-cerebral-fusebox
-A simple counter in JS.
+# A simple counter in JS.
 
 Using `inferno` and `cerebral + @cerebral/inferno` in the view.
 

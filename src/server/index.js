@@ -33,6 +33,7 @@ server.get("/", (req, res) => {
    <html>
        <head>
           ${stateScript}
+          <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/purecss@1.0.0/build/pure-min.css">
          <title>My Isomorphic App</title>
        </head>
        <body>

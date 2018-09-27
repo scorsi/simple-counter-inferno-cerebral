@@ -11,10 +11,14 @@ export default connect({
   class App extends Component {
     render() {
       return (
-        <div>
-          <p>{this.props.counter}</p>
-          <button onClick={this.props.increment}>+</button>
-          <button onClick={this.props.decrement}>-</button>
+        <div className={"pure-g"}>
+          <div className={"pure-u-1-3"} />
+          <div className={"pure-u-1-3 text-center"}>
+            <p>{this.props.counter}</p>
+            <button className={"pure-button"} onClick={this.props.increment}>+</button>
+            <button className={"pure-button"} onClick={this.props.decrement}>-</button>
+          </div>
+          <div className={"pure-u-1-3"} />
         </div>
       );
     }

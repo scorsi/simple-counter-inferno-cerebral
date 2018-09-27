@@ -1,5 +1,7 @@
 {
-  "name": "inferno-isomorphic-tempalte",
+  "name": "simple-counter-inferno-cerebral-fusebox",
+  "homepage": "https://github.com/scorsi/simple-counter-inferno-cerebral-fusebox",
+  "license": "unlicense",
   "scripts": {
     "dev": "node fuse.js dev"
   },
